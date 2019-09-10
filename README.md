@@ -1,2 +1,4 @@
 # zime-1
-hello world
+    public static void main(String[] args){
+            System.out.print("hello world");
+	    }
